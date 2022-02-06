@@ -18,4 +18,5 @@ WEBSITE
 
 Screenshot of Webpage
 
-    ! [screenshot](images/Screen Shot 2022-02-06 at 11.44.43 AM.png)
+    <img src="./Develop/assets/images/Screen Shot 2022-02-06 at 11.44.43 AM.png"/>
+
