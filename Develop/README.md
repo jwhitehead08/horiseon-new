@@ -1,5 +1,9 @@
 README
 
+Horiseon 
+
+Description 
+    
     This is a webpage for Horiseon. It contains basic information about the company and contains some images. 
 
 CONTACT
@@ -10,4 +14,8 @@ WEBSITE
 
     Visit the Horiseon website at the following link:
 
-        https:....
+        https://jwhitehead08.github.io/horiseon-new/
+
+Screenshot of Webpage
+
+    
